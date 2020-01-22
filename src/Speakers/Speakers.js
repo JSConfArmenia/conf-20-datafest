@@ -10,24 +10,16 @@ import SpeakerCard from './SpeakerCard';
 
 
 const speakersList = [
-  'Sara_Vieira',
-  'Roy_Derks',
-  'Dan_Abramov',
-  'Denys_Radin',
-  'Narendra_Shetty',
-  'Rebecca_Hill',
-  'Cristian_Oliveira_da_Rosa',
-  'Elizabet_Oliveira',
-  'Jesse_Martin',
-  'Khachatur_Virabyan',
-  'Eugene_Zharkov',
-  'Varik_Matevosyan',
-  'Leandro_Ostera',
-  'Lilit_Tadevosyan',
-  'Gagik_Arustamyan',
-  'Taguhi_Asatryan',
-  'Radoslaw_Malecki',
-  'Nver_Abgaryan',
+  'Aleksey_Natekin',
+  'Manvel_Avetissian',
+  'Vahe_Hakobyan',
+  'Hrayr_Harutyunyan',
+  'Shushan_Arakelyan',
+  'Levan_Tsinadze',
+  'George_Kasparyants',
+  'Hrant_Khachatrian',
+  'Arsen_Yeghiazaryan',
+  'Andranik_Khachatryan',
 ].map(id => ({
   id,
   ...speakersSerivce[id],
@@ -38,7 +30,7 @@ const Speakers = () => (
     <div className="container">
       <div className="SpeakersTitleContainer">
         <Title>
-          React
+          DataFest
           <TitleAccent color="hero"> Speakers</TitleAccent>
         </Title>
       </div>

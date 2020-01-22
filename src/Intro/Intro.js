@@ -7,9 +7,9 @@ const Intro = () => (
     <div className="IntroContainer">
       <div className="Info">
         <p>Russian-Armenian University</p>
-        <p>May 25, 2019</p>
+        <p>Sep 9-11, 2020</p>
       </div>
-      <h1>React Conf Armenia</h1>
+      <h1>DataFest Armenia</h1>
     </div>
   </section>
 );

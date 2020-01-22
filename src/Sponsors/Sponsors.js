@@ -40,7 +40,7 @@ const Sponsors = () => (
     <div className="container">
       <div className="SponsorsTitleContainer">
         <Title>
-          React Conf
+          DataFest
           <TitleAccent color="primary1"> Sponsors</TitleAccent>
         </Title>
         <Description>Gold Sponsors</Description>

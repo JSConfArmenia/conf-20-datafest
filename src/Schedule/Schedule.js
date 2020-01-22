@@ -16,7 +16,7 @@ const Schedule = () => (
     <div className="container">
       <div className="ScheduleTitleContainer">
         <Title>
-          React
+          DataFest
           <TitleAccent color="primary2"> Schedule</TitleAccent>
         </Title>
       </div>

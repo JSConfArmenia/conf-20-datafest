@@ -9,6 +9,8 @@ const getLinkType = (url) => {
     return 'twitter';
   } if (url.includes('linkedin')) {
     return 'linkedin';
+  } if (url.includes('scholar.google')) {
+    return 'googleScholar';
   }
 
   return '';

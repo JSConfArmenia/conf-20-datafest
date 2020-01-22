@@ -40,9 +40,10 @@ const getTopicBackground = ({ isBreak = false, level }) => {
   >
 */
 
-const ScheduleItemSpeakers = ({ speakers = [] }) => (
+const ScheduleItemSpeakers = ({ speakers = {} }) => (
   <div className="ScheduleItemSpeakers">
     {speakers.map(speaker => (
+      speaker && (
       <div className="ItemSpeaker" key={speaker.name}>
         {speaker.name}
         <div
@@ -52,6 +53,7 @@ const ScheduleItemSpeakers = ({ speakers = [] }) => (
           }}
         />
       </div>
+      )
     ))}
   </div>
 );
@@ -86,7 +88,7 @@ const ScheduleItem = ({
     }
     <div className={`ItemTitle -level-${level} -orient-${orient}`}>
       {(isBreak || isGeneral) ? null : <span className="ItemLanguage">{language}</span>}
-      <span className="ItemTopic">{topic || (speakers.length > 0 && speakers[0].topic)}</span>
+      <span className="ItemTopic">{topic || (speakers.length > 0 && speakers[0] && speakers[0].topic)}</span>
       <img className="ItemTitleBackground" alt="Topic Background" src={getTopicBackground({ level, isBreak })} />
     </div>
   </div>

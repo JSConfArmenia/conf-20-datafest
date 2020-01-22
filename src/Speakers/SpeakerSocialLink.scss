@@ -25,4 +25,20 @@
   &.-twitter:hover .SpeakerSocialLinkIcon {
     background-image: url(/social-icons/Twitter-hover.png);
   }
+
+  &.-linkedin .SpeakerSocialLinkIcon {
+    background-image: url(/social-icons/LinkedIn.png);
+  }
+
+  &.-linkedin:hover .SpeakerSocialLinkIcon {
+    background-image: url(/social-icons/LinkedIn-hover.png);
+  }
+
+  &.-googleScholar .SpeakerSocialLinkIcon {
+    background-image: url(/social-icons/Google-scholar.png);
+  }
+
+  &.-googleScholar:hover .SpeakerSocialLinkIcon {
+    background-image: url(/social-icons/Google-scholar-hover.png);
+  }
 }
