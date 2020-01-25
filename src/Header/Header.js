@@ -83,52 +83,52 @@ class Header extends Component {
       <header className={`Header${headerClasses}`}>
         <div className="container">
           <div className="Logo">
-            <Link
-              to="Intro"
-              smooth="true"
-              spy={true}
-              offset={-100}
-              className="Link"
-              onClick={() => this.close('intro')}
-            >
-              <img
-                className="LogoImg"
-                src="/logo.png"
-                alt="React Conference 2019 Logo"
-              />
-            </Link>
+            {/* <Link */}
+            {/*  to="Intro" */}
+            {/*  smooth="true" */}
+            {/*  spy={true} */}
+            {/*  offset={-100} */}
+            {/*  className="Link" */}
+            {/*  onClick={() => this.close('intro')} */}
+            {/* > */}
+            {/*  <img */}
+            {/*    className="LogoImg" */}
+            {/*    src="/logo.png" */}
+            {/*    alt="React Conference 2019 Logo" */}
+            {/*  /> */}
+            {/* </Link> */}
           </div>
 
           <Button
             link
             size="small"
             className="ActionButton MobileActionButton"
-            href="http://bit.ly/joinReactConfAM"
+            // href="http://bit.ly/joinReactConfAM"
           >
             Request an Invite
           </Button>
 
           <nav className="Navigation">
-            <Link
-              to="About"
-              smooth="true"
-              spy={true}
-              offset={-100}
-              className="Link"
-              onClick={() => this.close('about')}
-            >
-              About
-            </Link>
-            <Link
-              to="Schedule"
-              smooth="true"
-              spy={true}
-              offset={-100}
-              className="Link"
-              onClick={() => this.close('schedule')}
-            >
-              Schedule
-            </Link>
+            {/* <Link */}
+            {/*  to="About" */}
+            {/*  smooth="true" */}
+            {/*  spy={true} */}
+            {/*  offset={-100} */}
+            {/*  className="Link" */}
+            {/*  onClick={() => this.close('about')} */}
+            {/* > */}
+            {/*  About */}
+            {/* </Link> */}
+            {/* <Link */}
+            {/*  to="Schedule" */}
+            {/*  smooth="true" */}
+            {/*  spy={true} */}
+            {/*  offset={-100} */}
+            {/*  className="Link" */}
+            {/*  onClick={() => this.close('schedule')} */}
+            {/* > */}
+            {/*  Schedule */}
+            {/* </Link> */}
             <Link
               to="Speakers"
               smooth="true"
@@ -139,26 +139,26 @@ class Header extends Component {
             >
               Speakers
             </Link>
-            <Link
-              to="Sponsors"
-              smooth="true"
-              spy={true}
-              offset={-100}
-              className="Link"
-              onClick={() => this.close('sponsors')}
-            >
-              Sponsors
-            </Link>
-            <Link
-              to="Team"
-              smooth="true"
-              spy={true}
-              offset={-100}
-              className="Link"
-              onClick={() => this.close('team')}
-            >
-              Team
-            </Link>
+            {/* <Link */}
+            {/*  to="Sponsors" */}
+            {/*  smooth="true" */}
+            {/*  spy={true} */}
+            {/*  offset={-100} */}
+            {/*  className="Link" */}
+            {/*  onClick={() => this.close('sponsors')} */}
+            {/* > */}
+            {/*  Sponsors */}
+            {/* </Link> */}
+            {/* <Link */}
+            {/*  to="Team" */}
+            {/*  smooth="true" */}
+            {/*  spy={true} */}
+            {/*  offset={-100} */}
+            {/*  className="Link" */}
+            {/*  onClick={() => this.close('team')} */}
+            {/* > */}
+            {/*  Team */}
+            {/* </Link> */}
             <Link
               to="Location"
               smooth="true"
@@ -169,16 +169,16 @@ class Header extends Component {
             >
               Location
             </Link>
-            <Link
-              to="Jobs"
-              smooth="true"
-              spy={true}
-              offset={-100}
-              className="Link"
-              onClick={() => this.close('jobs')}
-            >
-              Jobs
-            </Link>
+            {/* <Link */}
+            {/*  to="Jobs" */}
+            {/*  smooth="true" */}
+            {/*  spy={true} */}
+            {/*  offset={-100} */}
+            {/*  className="Link" */}
+            {/*  onClick={() => this.close('jobs')} */}
+            {/* > */}
+            {/*  Jobs */}
+            {/* </Link> */}
             <Link
               to="FAQ"
               smooth="true"
@@ -195,7 +195,7 @@ class Header extends Component {
               link
               size="small"
               className="ActionButton DesktopActionButton"
-              href="http://bit.ly/joinReactConfAM"
+              // href="http://bit.ly/joinReactConfAM"
             >
               Request an Invite
             </Button>
