@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-scroll';
-import { Button } from '_components';
+// import { Button } from '_components';
 import FontAwesome from 'react-fontawesome';
 // import Container from 'react-bootstrap/Container';
 // import Row from 'react-bootstrap/Row';
@@ -99,14 +99,14 @@ class Header extends Component {
             {/* </Link> */}
           </div>
 
-          <Button
-            link
-            size="small"
-            className="ActionButton MobileActionButton"
-            // href="http://bit.ly/joinReactConfAM"
-          >
-            Request an Invite
-          </Button>
+          {/* <Button */}
+          {/*  link */}
+          {/*  size="small" */}
+          {/*  className="ActionButton MobileActionButton" */}
+          {/*  // href="http://bit.ly/joinReactConfAM" */}
+          {/* > */}
+          {/*  Request an Invite */}
+          {/* </Button> */}
 
           <nav className="Navigation">
             {/* <Link */}
@@ -191,14 +191,14 @@ class Header extends Component {
             </Link>
             {/* <Link to="Quiz" smooth="true" spy={true} className="Link" onClick={()
              => this.close()}>Quiz</Link> */}
-            <Button
-              link
-              size="small"
-              className="ActionButton DesktopActionButton"
-              // href="http://bit.ly/joinReactConfAM"
-            >
-              Request an Invite
-            </Button>
+            {/* <Button */}
+            {/*  link */}
+            {/*  size="small" */}
+            {/*  className="ActionButton DesktopActionButton" */}
+            {/*  // href="http://bit.ly/joinReactConfAM" */}
+            {/* > */}
+            {/*  Request an Invite */}
+            {/* </Button> */}
           </nav>
           <a href="#Intro" className="NavBtn" onClick={e => this.toggle(e)}>
             <FontAwesome name="bars" />

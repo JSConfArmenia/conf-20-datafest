@@ -5,7 +5,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Aleksey Natekin',
     position: 'Dictator / Founder at Data Souls, ODS.ai',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/natekin',
       'https://ru.linkedin.com/in/natekin',
@@ -17,7 +17,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Manvel Avetissian',
     position: 'Managing Director at Sberbank AI Lab',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/mnvl',
       'https://ru.linkedin.com/in/manvelavetisian',
@@ -29,7 +29,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Vahe Hakobyan',
     position: 'Senior Research Engineer at Zalando',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/cryptexis',
       'https://de.linkedin.com/in/vahe-v-hakobyan',
@@ -37,11 +37,11 @@ export default {
   },
   Hrayr_Harutyunyan: {
     id: 'Hrayr_Harutyunyan',
-    img: '/speakers/Hrayr_Harutyunyan.jfif',
+    img: '/speakers/Hrayr_Harutyunyan.png',
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Hrayr Harutyunyan',
     position: 'PhD student at University of Southern California',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/hrayrhar',
       'https://scholar.google.com/citations?hl=en&user=GaCGz8wAAAAJ',
@@ -53,7 +53,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Shushan Arakelyan',
     position: 'PhD student at University of Southern California',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/ShushanArakelyan',
       'https://www.linkedin.com/in/arakelyanshushan',
@@ -66,7 +66,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Levan Tsinadze',
     position: 'Head of AI at Maxin.ai',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/levants',
       'https://www.linkedin.com/in/levan-tsinadze-246a1b2a/',
@@ -78,7 +78,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'George Kasparyants',
     position: 'Head of AI at Gradient',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/DELTA37',
       'https://www.linkedin.com/in/george-kasparyants-579bb4129',
@@ -90,7 +90,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Hrant Khachatrian',
     position: 'Director at YerevaNN',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/Hrant-Khachatrian',
       'https://scholar.google.com/citations?user=CxOrE_kAAAAJ&hl=en',
@@ -102,7 +102,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Arsen Yeghiazaryan',
     position: 'ML Team Lead at Webb Fontaine',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721',
     ],
@@ -113,7 +113,7 @@ export default {
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'Andranik Khachatryan',
     position: 'ML Specialist, Consultant',
-    topic: 'Production Ready React with GatsbyJS',
+    topic: '',
     socialUrls: [
       'https://github.com/ando-khachatryan',
       'https://www.linkedin.com/in/andranik-khachatryan-4b6b82145',
