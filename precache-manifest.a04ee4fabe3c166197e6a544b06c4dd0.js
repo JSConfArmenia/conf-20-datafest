@@ -48,6 +48,10 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Thin.556adcdf.woff2"
   },
   {
+    "revision": "54ef7f390378e1eea81ce46e342ab302",
+    "url": "/static/media/AktivGrotesk-XBoldItalic.54ef7f39.woff"
+  },
+  {
     "revision": "c126e68a8af4c5496564dfb2d008e228",
     "url": "/static/media/AktivGrotesk-ThinItalic.c126e68a.woff"
   },
@@ -56,8 +60,8 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Italic.3f2eda3f.woff2"
   },
   {
-    "revision": "54ef7f390378e1eea81ce46e342ab302",
-    "url": "/static/media/AktivGrotesk-XBoldItalic.54ef7f39.woff"
+    "revision": "2f13a86bf31c0dfcb62d76dd9af02682",
+    "url": "/static/media/AktivGrotesk-Hairline.2f13a86b.woff"
   },
   {
     "revision": "8d85f9579966180ad1bc4968e6b16fda",
@@ -66,10 +70,6 @@ self.__precacheManifest = [
   {
     "revision": "724493d67f49ba46cdb72f90dda44e92",
     "url": "/static/media/AktivGrotesk-Bold.724493d6.woff2"
-  },
-  {
-    "revision": "2f13a86bf31c0dfcb62d76dd9af02682",
-    "url": "/static/media/AktivGrotesk-Hairline.2f13a86b.woff"
   },
   {
     "revision": "9492c3a4b02d1c3c8e6f24f10d27cef0",
@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-LightItalic.e1cac81d.woff2"
   },
   {
-    "revision": "5873d8635031cb1b03abd43e589543f9",
-    "url": "/static/media/AktivGrotesk-Medium.5873d863.woff2"
-  },
-  {
     "revision": "8bd24703c7f98ce0b18e37d63db1f379",
     "url": "/static/media/AktivGrotesk-MediumItalic.8bd24703.woff2"
+  },
+  {
+    "revision": "5873d8635031cb1b03abd43e589543f9",
+    "url": "/static/media/AktivGrotesk-Medium.5873d863.woff2"
   },
   {
     "revision": "f281a6f046f986d74655e765a97f666f",
@@ -228,12 +228,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-BlackItalic.d707e133.ttf"
   },
   {
-    "revision": "8c6faee0f6be4b394784835ca5e0d966",
-    "url": "/static/media/AktivGrotesk-Thin.8c6faee0.ttf"
-  },
-  {
     "revision": "da47f03d7b0c2b6c85df9ae43689d3ee",
     "url": "/static/media/AktivGrotesk-Thin.da47f03d.eot"
+  },
+  {
+    "revision": "8c6faee0f6be4b394784835ca5e0d966",
+    "url": "/static/media/AktivGrotesk-Thin.8c6faee0.ttf"
   },
   {
     "revision": "05ce968bf631cd51cb0721de7708da00",
@@ -244,20 +244,20 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Bold.b227d5c7.eot"
   },
   {
-    "revision": "b7d8694514e1a931ce7566a89bd1d529",
-    "url": "/static/media/AktivGrotesk-MediumItalic.b7d86945.ttf"
-  },
-  {
     "revision": "edb59894f48cbc6029a394332f5f8b1b",
     "url": "/static/media/AktivGrotesk-MediumItalic.edb59894.eot"
   },
   {
-    "revision": "b8c4f19dc08ee1776103cd6afcdef681",
-    "url": "/static/media/AktivGrotesk-BoldItalic.b8c4f19d.ttf"
+    "revision": "b7d8694514e1a931ce7566a89bd1d529",
+    "url": "/static/media/AktivGrotesk-MediumItalic.b7d86945.ttf"
   },
   {
     "revision": "3cc25b09d4644fd653754a7a36f2ff9b",
     "url": "/static/media/AktivGrotesk-BoldItalic.3cc25b09.eot"
+  },
+  {
+    "revision": "b8c4f19dc08ee1776103cd6afcdef681",
+    "url": "/static/media/AktivGrotesk-BoldItalic.b8c4f19d.ttf"
   },
   {
     "revision": "acbe1dc212229b5e6e2dbf7353e16781",
@@ -276,12 +276,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Medium.6c9138fa.ttf"
   },
   {
-    "revision": "6a0d5a4cf8046dfd1ee54c84d9c301f0",
-    "url": "/static/media/AktivGrotesk-Light.6a0d5a4c.ttf"
-  },
-  {
     "revision": "3329cae957b6aa2b353232418fff6813",
     "url": "/static/media/AktivGrotesk-Light.3329cae9.eot"
+  },
+  {
+    "revision": "6a0d5a4cf8046dfd1ee54c84d9c301f0",
+    "url": "/static/media/AktivGrotesk-Light.6a0d5a4c.ttf"
   },
   {
     "revision": "79b123d531aa0ccdba78d8838b1a921c",
@@ -292,20 +292,20 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Regular.b44bcadd.ttf"
   },
   {
-    "revision": "11f45dcae4c900a798989cf0d848deb9",
-    "url": "/static/media/AktivGrotesk-LightItalic.11f45dca.ttf"
-  },
-  {
     "revision": "f4aa488011c7a26f2054ead19151343e",
     "url": "/static/media/AktivGrotesk-LightItalic.f4aa4880.eot"
   },
   {
-    "revision": "237266a15fd03299873d6cbaf99325b2",
-    "url": "/static/media/Rajdhani-SemiBold.237266a1.eot"
+    "revision": "11f45dcae4c900a798989cf0d848deb9",
+    "url": "/static/media/AktivGrotesk-LightItalic.11f45dca.ttf"
   },
   {
     "revision": "314ca407a1f70e661dc2db77a5e9b588",
     "url": "/static/media/Rajdhani-SemiBold.314ca407.ttf"
+  },
+  {
+    "revision": "237266a15fd03299873d6cbaf99325b2",
+    "url": "/static/media/Rajdhani-SemiBold.237266a1.eot"
   },
   {
     "revision": "89be8bb7cdca37fb496bed84d50fa745",
@@ -320,10 +320,6 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-Light.5e8a4ac2.eot"
   },
   {
-    "revision": "961af6f1313d7699f45367b46df8c061",
-    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
-  },
-  {
     "revision": "9d93e3b7d1d55c514b4b4386926ef80a",
     "url": "/static/media/Rajdhani-Bold.9d93e3b7.ttf"
   },
@@ -332,12 +328,16 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-Light.35ba2fa4.ttf"
   },
   {
-    "revision": "47aca29c016a40751cd1947a4b6c6330",
-    "url": "/static/media/Rajdhani-Medium.47aca29c.ttf"
+    "revision": "961af6f1313d7699f45367b46df8c061",
+    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
   },
   {
     "revision": "35af7e3d95e841130847c7a9655d2ae2",
     "url": "/static/media/Rajdhani-Medium.35af7e3d.eot"
+  },
+  {
+    "revision": "47aca29c016a40751cd1947a4b6c6330",
+    "url": "/static/media/Rajdhani-Medium.47aca29c.ttf"
   },
   {
     "revision": "b8be4086a1e9fabecca68c5dbffbb8b2",
