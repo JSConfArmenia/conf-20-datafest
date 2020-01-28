@@ -23,6 +23,17 @@ export default {
       'https://ru.linkedin.com/in/manvelavetisian',
     ],
   },
+  Dmytro_Fedyukov: {
+    id: 'Dmytro_Fedyukov',
+    img: '/speakers/Dmytro_Fedyukov.jpeg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Dmytro Fedyukov',
+    position: 'Head of Data Science at SoftConstruct',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/dmytro-fedyukov-806a301a/',
+    ],
+  },
   Vahe_Hakobyan: {
     id: 'Vahe_Hakobyan',
     img: '/speakers/Vahe_Hakobyan.jpg',
@@ -74,7 +85,7 @@ export default {
   },
   George_Kasparyants: {
     id: 'George_Kasparyants',
-    img: '/speakers/George_Kasparyants.jfif',
+    img: '/speakers/George_Kasparyants.jpeg',
     imgSmall: '/speakers-small/Jesse_Martin.png',
     name: 'George Kasparyants',
     position: 'Head of AI at Gradient',

@@ -13,6 +13,7 @@ const speakersList = [
   'Aleksey_Natekin',
   'Manvel_Avetissian',
   'Vahe_Hakobyan',
+  'Dmytro_Fedyukov',
   'Hrayr_Harutyunyan',
   'Shushan_Arakelyan',
   'Levan_Tsinadze',
