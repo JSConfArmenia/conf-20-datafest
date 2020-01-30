@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-ThinItalic.3af18e06.eot"
   },
   {
-    "revision": "01d95ee89aced8e35fb0",
+    "revision": "5b9d54d11b8edc10dc61",
     "url": "/static/css/main.ab63732a.chunk.css"
   },
   {
@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-LightItalic.e1cac81d.woff2"
   },
   {
-    "revision": "8bd24703c7f98ce0b18e37d63db1f379",
-    "url": "/static/media/AktivGrotesk-MediumItalic.8bd24703.woff2"
-  },
-  {
     "revision": "5873d8635031cb1b03abd43e589543f9",
     "url": "/static/media/AktivGrotesk-Medium.5873d863.woff2"
+  },
+  {
+    "revision": "8bd24703c7f98ce0b18e37d63db1f379",
+    "url": "/static/media/AktivGrotesk-MediumItalic.8bd24703.woff2"
   },
   {
     "revision": "f281a6f046f986d74655e765a97f666f",
@@ -180,20 +180,20 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-SemiBold.1bd53389.woff"
   },
   {
-    "revision": "fc89f1ff19080a4067de502227d1c881",
-    "url": "/static/media/AktivGrotesk-Hairline.fc89f1ff.ttf"
-  },
-  {
     "revision": "9ac4f0416cd76e3e3a5c7db8aa04f438",
     "url": "/static/media/AktivGrotesk-Hairline.9ac4f041.eot"
   },
   {
-    "revision": "7a81cb2f8662f73557a32b5f115287d9",
-    "url": "/static/media/AktivGrotesk-HairlineItalic.7a81cb2f.ttf"
+    "revision": "fc89f1ff19080a4067de502227d1c881",
+    "url": "/static/media/AktivGrotesk-Hairline.fc89f1ff.ttf"
   },
   {
     "revision": "60cfc5fb06c441069e60c73aae7694e3",
     "url": "/static/media/AktivGrotesk-HairlineItalic.60cfc5fb.eot"
+  },
+  {
+    "revision": "7a81cb2f8662f73557a32b5f115287d9",
+    "url": "/static/media/AktivGrotesk-HairlineItalic.7a81cb2f.ttf"
   },
   {
     "revision": "d00b039cef84520c8e450f0f18fa9006",
@@ -212,8 +212,8 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-XBoldItalic.cc9101bd.ttf"
   },
   {
-    "revision": "01d95ee89aced8e35fb0",
-    "url": "/static/js/main.01d95ee8.chunk.js"
+    "revision": "5b9d54d11b8edc10dc61",
+    "url": "/static/js/main.5b9d54d1.chunk.js"
   },
   {
     "revision": "bb65147b09cc33cfee53862af2bfed93",
@@ -236,6 +236,10 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Thin.8c6faee0.ttf"
   },
   {
+    "revision": "05ce968bf631cd51cb0721de7708da00",
+    "url": "/static/media/AktivGrotesk-Bold.05ce968b.ttf"
+  },
+  {
     "revision": "b227d5c7eef63e2ec9743437f7d33cd5",
     "url": "/static/media/AktivGrotesk-Bold.b227d5c7.eot"
   },
@@ -248,8 +252,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-MediumItalic.b7d86945.ttf"
   },
   {
-    "revision": "05ce968bf631cd51cb0721de7708da00",
-    "url": "/static/media/AktivGrotesk-Bold.05ce968b.ttf"
+    "revision": "3cc25b09d4644fd653754a7a36f2ff9b",
+    "url": "/static/media/AktivGrotesk-BoldItalic.3cc25b09.eot"
+  },
+  {
+    "revision": "acbe1dc212229b5e6e2dbf7353e16781",
+    "url": "/static/media/AktivGrotesk-Italic.acbe1dc2.ttf"
   },
   {
     "revision": "b8c4f19dc08ee1776103cd6afcdef681",
@@ -260,14 +268,6 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Italic.30ef61ad.eot"
   },
   {
-    "revision": "3cc25b09d4644fd653754a7a36f2ff9b",
-    "url": "/static/media/AktivGrotesk-BoldItalic.3cc25b09.eot"
-  },
-  {
-    "revision": "acbe1dc212229b5e6e2dbf7353e16781",
-    "url": "/static/media/AktivGrotesk-Italic.acbe1dc2.ttf"
-  },
-  {
     "revision": "6c9138fa192ad4391c0c8878be594841",
     "url": "/static/media/AktivGrotesk-Medium.6c9138fa.ttf"
   },
@@ -276,12 +276,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Medium.0c6739b9.eot"
   },
   {
-    "revision": "3329cae957b6aa2b353232418fff6813",
-    "url": "/static/media/AktivGrotesk-Light.3329cae9.eot"
-  },
-  {
     "revision": "6a0d5a4cf8046dfd1ee54c84d9c301f0",
     "url": "/static/media/AktivGrotesk-Light.6a0d5a4c.ttf"
+  },
+  {
+    "revision": "3329cae957b6aa2b353232418fff6813",
+    "url": "/static/media/AktivGrotesk-Light.3329cae9.eot"
   },
   {
     "revision": "79b123d531aa0ccdba78d8838b1a921c",
@@ -308,36 +308,36 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-SemiBold.314ca407.ttf"
   },
   {
-    "revision": "375bed517ef8a031ae619932f261b733",
-    "url": "/static/media/Rajdhani-Regular.375bed51.ttf"
-  },
-  {
     "revision": "89be8bb7cdca37fb496bed84d50fa745",
     "url": "/static/media/Rajdhani-Regular.89be8bb7.eot"
-  },
-  {
-    "revision": "5e8a4ac2ef30f3534286329b20f6890e",
-    "url": "/static/media/Rajdhani-Light.5e8a4ac2.eot"
   },
   {
     "revision": "35ba2fa4455863fafc6bc2484b665a4c",
     "url": "/static/media/Rajdhani-Light.35ba2fa4.ttf"
   },
   {
-    "revision": "9d93e3b7d1d55c514b4b4386926ef80a",
-    "url": "/static/media/Rajdhani-Bold.9d93e3b7.ttf"
+    "revision": "375bed517ef8a031ae619932f261b733",
+    "url": "/static/media/Rajdhani-Regular.375bed51.ttf"
   },
   {
-    "revision": "47aca29c016a40751cd1947a4b6c6330",
-    "url": "/static/media/Rajdhani-Medium.47aca29c.ttf"
+    "revision": "961af6f1313d7699f45367b46df8c061",
+    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
+  },
+  {
+    "revision": "5e8a4ac2ef30f3534286329b20f6890e",
+    "url": "/static/media/Rajdhani-Light.5e8a4ac2.eot"
+  },
+  {
+    "revision": "9d93e3b7d1d55c514b4b4386926ef80a",
+    "url": "/static/media/Rajdhani-Bold.9d93e3b7.ttf"
   },
   {
     "revision": "35af7e3d95e841130847c7a9655d2ae2",
     "url": "/static/media/Rajdhani-Medium.35af7e3d.eot"
   },
   {
-    "revision": "961af6f1313d7699f45367b46df8c061",
-    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
+    "revision": "47aca29c016a40751cd1947a4b6c6330",
+    "url": "/static/media/Rajdhani-Medium.47aca29c.ttf"
   },
   {
     "revision": "b8be4086a1e9fabecca68c5dbffbb8b2",
@@ -420,7 +420,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.6665f35a.chunk.css"
   },
   {
-    "revision": "477625fd60f0727d7651a950c0761eb7",
+    "revision": "67cf51a07db376da6595b8c4940772bd",
     "url": "/index.html"
   }
 ];
