@@ -7,7 +7,7 @@ import { Title } from '../_components';
 
 const Footer = () => (
   <section className="Footer">
-    <Title className="Title">DataFest Armenia</Title>
+    <Title className="Title">DataFest Yerevan</Title>
     {/* <ul className="Icons"> */}
     {/*  {Icons.map(icon => ( */}
     {/*    <li key={icon.key} className="Icon"> */}

@@ -9,7 +9,7 @@ const Intro = () => (
         <p>American University of Armenia</p>
         <p>April 9-11, 2020</p>
       </div>
-      <h1>DataFest Armenia</h1>
+      <h1>DataFest Yerevan</h1>
     </div>
   </section>
 );
