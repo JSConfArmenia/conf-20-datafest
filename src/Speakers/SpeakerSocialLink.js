@@ -11,6 +11,8 @@ const getLinkType = (url) => {
     return 'linkedin';
   } if (url.includes('scholar.google')) {
     return 'googleScholar';
+  } if (url.includes('facebook')) {
+    return 'facebook';
   }
 
   return '';

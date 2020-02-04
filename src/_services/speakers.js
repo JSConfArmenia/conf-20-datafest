@@ -7,7 +7,7 @@ export default {
     position: 'Dictator / Founder at Data Souls, ODS.ai',
     topic: '',
     socialUrls: [
-      // "https://www.facebook.com/alex.natekin"
+      'https://www.facebook.com/alex.natekin',
     ],
   },
   Manvel_Avetissian: {

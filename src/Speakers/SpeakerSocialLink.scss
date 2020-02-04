@@ -41,4 +41,12 @@
   &.-googleScholar:hover .SpeakerSocialLinkIcon {
     background-image: url(/social-icons/Google-scholar-hover.png);
   }
+
+  &.-facebook .SpeakerSocialLinkIcon {
+    background-image: url(/social-icons/Facebook.png);
+  }
+
+  &.-facebook:hover .SpeakerSocialLinkIcon {
+    background-image: url(/social-icons/Facebook-hover.png);
+  }
 }
