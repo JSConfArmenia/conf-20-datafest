@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3af18e065f0022f6732314228e096f76",
-    "url": "/static/media/AktivGrotesk-ThinItalic.3af18e06.eot"
+    "revision": "bb65147b09cc33cfee53862af2bfed93",
+    "url": "/static/media/AktivGrotesk-ThinItalic.bb65147b.ttf"
   },
   {
     "revision": "7444f3ce216b33959232",
@@ -172,12 +172,12 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-Bold.5f104ea8.woff"
   },
   {
-    "revision": "1bd53389311be0fbd6c9c08a85bd3bd8",
-    "url": "/static/media/Rajdhani-SemiBold.1bd53389.woff"
-  },
-  {
     "revision": "c5ba150f4df7c406f36239bb57544ca5",
     "url": "/static/media/Rajdhani-Medium.c5ba150f.woff"
+  },
+  {
+    "revision": "1bd53389311be0fbd6c9c08a85bd3bd8",
+    "url": "/static/media/Rajdhani-SemiBold.1bd53389.woff"
   },
   {
     "revision": "9ac4f0416cd76e3e3a5c7db8aa04f438",
@@ -216,8 +216,8 @@ self.__precacheManifest = [
     "url": "/static/js/main.7444f3ce.chunk.js"
   },
   {
-    "revision": "bb65147b09cc33cfee53862af2bfed93",
-    "url": "/static/media/AktivGrotesk-ThinItalic.bb65147b.ttf"
+    "revision": "3af18e065f0022f6732314228e096f76",
+    "url": "/static/media/AktivGrotesk-ThinItalic.3af18e06.eot"
   },
   {
     "revision": "1b62dcef389ee82f0950869c050d82bd",
@@ -292,12 +292,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Regular.b44bcadd.ttf"
   },
   {
-    "revision": "11f45dcae4c900a798989cf0d848deb9",
-    "url": "/static/media/AktivGrotesk-LightItalic.11f45dca.ttf"
-  },
-  {
     "revision": "f4aa488011c7a26f2054ead19151343e",
     "url": "/static/media/AktivGrotesk-LightItalic.f4aa4880.eot"
+  },
+  {
+    "revision": "11f45dcae4c900a798989cf0d848deb9",
+    "url": "/static/media/AktivGrotesk-LightItalic.11f45dca.ttf"
   },
   {
     "revision": "237266a15fd03299873d6cbaf99325b2",
@@ -312,16 +312,16 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-Regular.89be8bb7.eot"
   },
   {
-    "revision": "5e8a4ac2ef30f3534286329b20f6890e",
-    "url": "/static/media/Rajdhani-Light.5e8a4ac2.eot"
-  },
-  {
     "revision": "375bed517ef8a031ae619932f261b733",
     "url": "/static/media/Rajdhani-Regular.375bed51.ttf"
   },
   {
     "revision": "35ba2fa4455863fafc6bc2484b665a4c",
     "url": "/static/media/Rajdhani-Light.35ba2fa4.ttf"
+  },
+  {
+    "revision": "5e8a4ac2ef30f3534286329b20f6890e",
+    "url": "/static/media/Rajdhani-Light.5e8a4ac2.eot"
   },
   {
     "revision": "961af6f1313d7699f45367b46df8c061",
