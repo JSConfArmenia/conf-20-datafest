@@ -180,12 +180,12 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-SemiBold.1bd53389.woff"
   },
   {
-    "revision": "9ac4f0416cd76e3e3a5c7db8aa04f438",
-    "url": "/static/media/AktivGrotesk-Hairline.9ac4f041.eot"
-  },
-  {
     "revision": "fc89f1ff19080a4067de502227d1c881",
     "url": "/static/media/AktivGrotesk-Hairline.fc89f1ff.ttf"
+  },
+  {
+    "revision": "9ac4f0416cd76e3e3a5c7db8aa04f438",
+    "url": "/static/media/AktivGrotesk-Hairline.9ac4f041.eot"
   },
   {
     "revision": "60cfc5fb06c441069e60c73aae7694e3",
@@ -272,12 +272,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Medium.0c6739b9.eot"
   },
   {
-    "revision": "6c9138fa192ad4391c0c8878be594841",
-    "url": "/static/media/AktivGrotesk-Medium.6c9138fa.ttf"
-  },
-  {
     "revision": "3329cae957b6aa2b353232418fff6813",
     "url": "/static/media/AktivGrotesk-Light.3329cae9.eot"
+  },
+  {
+    "revision": "6c9138fa192ad4391c0c8878be594841",
+    "url": "/static/media/AktivGrotesk-Medium.6c9138fa.ttf"
   },
   {
     "revision": "6a0d5a4cf8046dfd1ee54c84d9c301f0",
@@ -320,12 +320,16 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-Light.5e8a4ac2.eot"
   },
   {
+    "revision": "961af6f1313d7699f45367b46df8c061",
+    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
+  },
+  {
     "revision": "35ba2fa4455863fafc6bc2484b665a4c",
     "url": "/static/media/Rajdhani-Light.35ba2fa4.ttf"
   },
   {
-    "revision": "961af6f1313d7699f45367b46df8c061",
-    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
+    "revision": "9d93e3b7d1d55c514b4b4386926ef80a",
+    "url": "/static/media/Rajdhani-Bold.9d93e3b7.ttf"
   },
   {
     "revision": "35af7e3d95e841130847c7a9655d2ae2",
@@ -334,10 +338,6 @@ self.__precacheManifest = [
   {
     "revision": "47aca29c016a40751cd1947a4b6c6330",
     "url": "/static/media/Rajdhani-Medium.47aca29c.ttf"
-  },
-  {
-    "revision": "9d93e3b7d1d55c514b4b4386926ef80a",
-    "url": "/static/media/Rajdhani-Bold.9d93e3b7.ttf"
   },
   {
     "revision": "b8be4086a1e9fabecca68c5dbffbb8b2",
