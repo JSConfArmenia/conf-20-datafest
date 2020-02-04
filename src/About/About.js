@@ -9,7 +9,7 @@ const About = () => (
   <section id="about" className="About">
     <div className="container">
       <div className="row">
-        <div className="col-lg-8">
+        <div className="col-lg-12">
           <div className="SectionBox">
             <Title>
               What is
@@ -37,15 +37,15 @@ const About = () => (
             </Description>
           </div>
         </div>
-        <div className="col-lg-4">
-          <div className="IllustrationContainer">
-            <img
-              className="Illustration"
-              src="./about-conf-image.png"
-              alt="About React Conf Armenia"
-            />
-          </div>
-        </div>
+        {/* <div className="col-lg-4"> */}
+        {/*  <div className="IllustrationContainer"> */}
+        {/*    <img */}
+        {/*      className="Illustration" */}
+        {/*      src="./about-conf-image.png" */}
+        {/*      alt="About React Conf Armenia" */}
+        {/*    /> */}
+        {/*  </div> */}
+        {/* </div> */}
       </div>
     </div>
   </section>
