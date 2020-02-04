@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Hairline.526dc2c5.woff2"
   },
   {
-    "revision": "bd38c8f3d6f57683904e389cf7a189de",
-    "url": "/static/media/AktivGrotesk-BlackItalic.bd38c8f3.woff2"
-  },
-  {
     "revision": "57b7f1ce9204bd762555029c5e546246",
     "url": "/static/media/AktivGrotesk-HairlineItalic.57b7f1ce.woff2"
+  },
+  {
+    "revision": "bd38c8f3d6f57683904e389cf7a189de",
+    "url": "/static/media/AktivGrotesk-BlackItalic.bd38c8f3.woff2"
   },
   {
     "revision": "f0395d105563cbca9f90333d26bda894",
@@ -188,12 +188,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Hairline.fc89f1ff.ttf"
   },
   {
-    "revision": "7a81cb2f8662f73557a32b5f115287d9",
-    "url": "/static/media/AktivGrotesk-HairlineItalic.7a81cb2f.ttf"
-  },
-  {
     "revision": "60cfc5fb06c441069e60c73aae7694e3",
     "url": "/static/media/AktivGrotesk-HairlineItalic.60cfc5fb.eot"
+  },
+  {
+    "revision": "7a81cb2f8662f73557a32b5f115287d9",
+    "url": "/static/media/AktivGrotesk-HairlineItalic.7a81cb2f.ttf"
   },
   {
     "revision": "d00b039cef84520c8e450f0f18fa9006",
@@ -320,20 +320,20 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-Light.5e8a4ac2.eot"
   },
   {
-    "revision": "961af6f1313d7699f45367b46df8c061",
-    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
-  },
-  {
     "revision": "35ba2fa4455863fafc6bc2484b665a4c",
     "url": "/static/media/Rajdhani-Light.35ba2fa4.ttf"
   },
   {
-    "revision": "35af7e3d95e841130847c7a9655d2ae2",
-    "url": "/static/media/Rajdhani-Medium.35af7e3d.eot"
+    "revision": "961af6f1313d7699f45367b46df8c061",
+    "url": "/static/media/Rajdhani-Bold.961af6f1.eot"
   },
   {
     "revision": "9d93e3b7d1d55c514b4b4386926ef80a",
     "url": "/static/media/Rajdhani-Bold.9d93e3b7.ttf"
+  },
+  {
+    "revision": "35af7e3d95e841130847c7a9655d2ae2",
+    "url": "/static/media/Rajdhani-Medium.35af7e3d.eot"
   },
   {
     "revision": "47aca29c016a40751cd1947a4b6c6330",
