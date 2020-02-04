@@ -12,6 +12,7 @@ import SpeakerCard from './SpeakerCard';
 const speakersList = [
   'Aleksey_Natekin',
   'Manvel_Avetissian',
+  'Ines_Montani',
   'Vahe_Hakobyan',
   'Dmytro_Fedyukov',
   'Hrayr_Harutyunyan',
@@ -20,7 +21,10 @@ const speakersList = [
   'George_Kasparyants',
   'Hrant_Khachatrian',
   'Arsen_Yeghiazaryan',
+  'Jonay_Trenous',
+  'Stepan_Sargsyan',
   'Andranik_Khachatryan',
+  'Zaven_Navoyan',
 ].map(id => ({
   id,
   ...speakersSerivce[id],

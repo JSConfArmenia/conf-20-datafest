@@ -7,15 +7,14 @@ export default {
     position: 'Dictator / Founder at Data Souls, ODS.ai',
     topic: '',
     socialUrls: [
-      'https://github.com/natekin',
-      'https://ru.linkedin.com/in/natekin',
+      // "https://www.facebook.com/alex.natekin"
     ],
   },
   Manvel_Avetissian: {
     id: 'Manvel_Avetissian',
     img: '/speakers/Manvel_Avetissian.jpeg',
     imgSmall: '/speakers-small/Jesse_Martin.png',
-    name: 'Manvel Avetissian',
+    name: 'Manvel Avetisian',
     position: 'Managing Director at Sberbank AI Lab',
     topic: '',
     socialUrls: [
@@ -128,6 +127,56 @@ export default {
     socialUrls: [
       'https://github.com/ando-khachatryan',
       'https://www.linkedin.com/in/andranik-khachatryan-4b6b82145',
+    ],
+  },
+
+  Jonay_Trenous: {
+    id: 'Jonay Trenous',
+    img: '/speakers/Jonay_Trenous.jpeg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Jonay Trenous',
+    position: 'Machine Learning Scientist at Amazon',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/jonaytrenous',
+    ],
+  },
+
+  Ines_Montani: {
+    id: 'Ines_Montani',
+    img: '/speakers/Ines_Montani.jpg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Ines Montani',
+    position: 'Founder at Explosion',
+    topic: '',
+    socialUrls: [
+      'http://linkedin.com/in/inesmontani',
+      'https://twitter.com/_inesmontani',
+      'https://github.com/ines',
+    ],
+  },
+
+  Stepan_Sargsyan: {
+    id: 'Stepan_Sargsyan',
+    img: '/speakers/Stepan_Sargsyan.jpg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Stepan Sargsyan',
+    position: 'Architect, ML at Krisp',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/stepansargsyan/',
+    ],
+  },
+
+  Zaven_Navoyan: {
+    id: 'Zaven_Navoyan',
+    img: '/speakers/Zaven_Navoyan.jfif',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Zaven Navoyan',
+    position: 'Head of NOC at Ucom',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/zavennavoyan',
     ],
   },
 };
