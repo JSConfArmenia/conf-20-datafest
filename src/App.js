@@ -1,6 +1,6 @@
 import React from 'react';
 
-// import About from './About/About';
+import About from './About/About';
 import Location from './Location/Location';
 // import Team from './Team/Team';
 import Header from './Header/Header';
@@ -19,7 +19,7 @@ const App = () => (
   <div className="App">
     <Header />
     <Intro />
-    {/* <About /> */}
+    <About />
     {/* <Schedule /> */}
     <Speakers />
     {/* <Sponsors /> */}
