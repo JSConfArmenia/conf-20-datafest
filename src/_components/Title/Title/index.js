@@ -19,10 +19,12 @@ const Title = ({
 Title.propTypes = {
   className: PropTypes.string,
   size: PropTypes.string,
+  style: PropTypes.objectOf(PropTypes.object),
 };
 
 Title.defaultProps = {
   className: '',
+  style: {},
   size: 'default',
 };
 

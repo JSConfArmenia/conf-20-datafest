@@ -109,16 +109,16 @@ class Header extends Component {
           {/* </Button> */}
 
           <nav className="Navigation">
-            {/* <Link */}
-            {/*  to="About" */}
-            {/*  smooth="true" */}
-            {/*  spy={true} */}
-            {/*  offset={-100} */}
-            {/*  className="Link" */}
-            {/*  onClick={() => this.close('about')} */}
-            {/* > */}
-            {/*  About */}
-            {/* </Link> */}
+            <Link
+              to="About"
+              smooth="true"
+              spy={true}
+              offset={-100}
+              className="Link"
+              onClick={() => this.close('about')}
+            >
+              About
+            </Link>
             {/* <Link */}
             {/*  to="Schedule" */}
             {/*  smooth="true" */}
@@ -140,25 +140,25 @@ class Header extends Component {
               Speakers
             </Link>
             {/* <Link */}
-            {/*  to="Sponsors" */}
-            {/*  smooth="true" */}
-            {/*  spy={true} */}
-            {/*  offset={-100} */}
-            {/*  className="Link" */}
-            {/*  onClick={() => this.close('sponsors')} */}
+            {/* to="Sponsors" */}
+            {/* smooth="true" */}
+            {/* spy={true} */}
+            {/* offset={-100} */}
+            {/* className="Link" */}
+            {/* onClick={() => this.close('sponsors')} */}
             {/* > */}
-            {/*  Sponsors */}
+            {/* Sponsors */}
             {/* </Link> */}
-            {/* <Link */}
-            {/*  to="Team" */}
-            {/*  smooth="true" */}
-            {/*  spy={true} */}
-            {/*  offset={-100} */}
-            {/*  className="Link" */}
-            {/*  onClick={() => this.close('team')} */}
-            {/* > */}
-            {/*  Team */}
-            {/* </Link> */}
+            <Link
+              to="Team"
+              smooth="true"
+              spy={true}
+              offset={-100}
+              className="Link"
+              onClick={() => this.close('team')}
+            >
+               Organizers
+            </Link>
             <Link
               to="Location"
               smooth="true"

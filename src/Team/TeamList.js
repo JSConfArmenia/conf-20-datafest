@@ -1,22 +1,18 @@
 export default [
   {
-    name: 'Alexander Adamyan',
-    position: 'Co-Founder at Simply Technologies',
+    name: 'Arsen Yeghiazaryan',
+    position: 'ML Team Lead at Webb Fontaine',
   },
   {
-    name: 'Varser Zakaryan',
-    position: 'Project Manager at  React Conf Armenia',
+    name: 'Hrant Khachatrian',
+    position: 'Director at YerevaNN',
   },
   {
-    name: 'Gevorg Harutyunyan',
-    position: 'Front-End Architect at Screenful, Founder of ModularCode',
+    name: 'Zaven Navoyan',
+    position: 'Head of NOC at Ucom',
   },
   {
-    name: 'Rouben Meschian',
-    position: 'Founding Software Engineer at Cambridge Semantics',
-  },
-  {
-    name: 'Edgar Marukyan',
-    position: 'CTO at Renderforest',
+    name: 'Andranik Khachatryan',
+    position: 'ML Specialist, Consultant',
   },
 ];
