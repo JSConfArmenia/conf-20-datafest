@@ -18,10 +18,6 @@ export default () => (
       </ul>
     </div>
 
-    <Title style={{ margin: 0 }}>
-          Co -
-      <TitleAccent color="primary2"> Organizers</TitleAccent>
-    </Title>
     <ul className="List">
       <Member key="AUA" position="" name="American University of Armenia" />
     </ul>
