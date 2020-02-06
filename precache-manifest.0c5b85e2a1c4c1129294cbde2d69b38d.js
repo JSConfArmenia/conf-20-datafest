@@ -300,12 +300,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-LightItalic.11f45dca.ttf"
   },
   {
-    "revision": "237266a15fd03299873d6cbaf99325b2",
-    "url": "/static/media/Rajdhani-SemiBold.237266a1.eot"
-  },
-  {
     "revision": "314ca407a1f70e661dc2db77a5e9b588",
     "url": "/static/media/Rajdhani-SemiBold.314ca407.ttf"
+  },
+  {
+    "revision": "237266a15fd03299873d6cbaf99325b2",
+    "url": "/static/media/Rajdhani-SemiBold.237266a1.eot"
   },
   {
     "revision": "89be8bb7cdca37fb496bed84d50fa745",
@@ -420,7 +420,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.6665f35a.chunk.css"
   },
   {
-    "revision": "5e015496f1faca9e6f9eb7e72090810f",
+    "revision": "7a2ae1a47bf546c424491dcec3056d2c",
     "url": "/index.html"
   }
 ];
