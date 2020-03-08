@@ -179,4 +179,106 @@ export default {
       'https://www.linkedin.com/in/zavennavoyan',
     ],
   },
+
+  Matthew_Honnibal: {
+    id: 'Matthew_Honnibal',
+    img: '/speakers/Matthew_Honnibal.png',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Matthew Honnibal',
+    position: 'Founder at Explosion',
+    topic: '',
+    socialUrls: [
+      'https://de.linkedin.com/in/honnibal',
+      'https://twitter.com/honnibal',
+      'https://github.com/honnibal',
+    ],
+  },
+
+  Davit_Kocharian: {
+    id: 'Davit_Kocharian',
+    img: '/speakers/Davit_Kocharian.png',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Davit Kocharian',
+    position: 'Senior Data Scientist, User Behavior Team Lead at PicsArt',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/davidkocharian',
+    ],
+  },
+
+  Shant_Navasardyan: {
+    id: 'Shant_Navasardyan',
+    img: '/speakers/Shant_Navasardyan.jpg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Shant Navasardyan',
+    position: 'Senior Machine Learning Researcher / Team Lead at PicsArt',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/shant-navasardyan-1302aa149',
+    ],
+  },
+
+  Karen_Hambardzumyan: {
+    id: 'Karen_Hambardzumyan',
+    img: '/speakers/Karen_Hambardzumyan.jpg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Karen Hambardzumyan',
+    position: 'ML researcher at YerevaNN',
+    topic: '',
+    socialUrls: [
+      'https://github.com/mahnerak',
+      'https://scholar.google.com/citations?user=V3JjNJ0AAAAJ&hl=en&oi=ao',
+    ],
+  },
+
+  Erik_Harutyunyan: {
+    id: 'Erik_Harutyunyan',
+    img: '/speakers/Erik_Harutyunyan.jpg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Erik Harutyunyan',
+    position: 'Machine Learning Engineer at SuperAnnotate',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/erik-harutyunyan-293458131/',
+      'https://github.com/ero1311',
+    ],
+  },
+
+  Artur_Kobelyan: {
+    id: 'Artur_Kobelyan',
+    img: '/speakers/Artur_Kobelyan.png',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Artur Kobelyan',
+    position: 'Principal engineer, ML at Krisp',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/akobel/',
+      'https://github.com/arkobel',
+    ],
+  },
+
+  Robert_Yenokyan: {
+    id: 'Robert_Yenokyan',
+    img: '/speakers/Robert_Yenokyan.jpg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Robert Yenokyan',
+    position: 'Data Scientist at Metric.am',
+    topic: '',
+    socialUrls: [
+      'https://www.linkedin.com/in/robert-yenokyan/',
+    ],
+  },
+
+  Bohdan_Zhurakovskyi: {
+    id: 'Bohdan_Zhurakovskyi',
+    img: '/speakers/Bohdan_Zhurakovskyi.jpg',
+    imgSmall: '/speakers-small/Jesse_Martin.png',
+    name: 'Bohdan Zhurakovskyi',
+    position: 'Machine Learning Developer at BetConstruct',
+    topic: '',
+    socialUrls: [
+      'https://ua.linkedin.com/in/bohdan-zhurakovskyi-436bb879',
+    ],
+  },
+
 };

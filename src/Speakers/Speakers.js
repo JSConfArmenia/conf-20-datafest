@@ -25,6 +25,13 @@ const speakersList = [
   'Stepan_Sargsyan',
   'Andranik_Khachatryan',
   'Zaven_Navoyan',
+  'Matthew_Honnibal',
+  'Davit_Kocharian',
+  'Shant_Navasardyan',
+  'Karen_Hambardzumyan',
+  'Erik_Harutyunyan',
+  'Artur_Kobelyan',
+  'Robert_Yenokyan',
 ].map(id => ({
   id,
   ...speakersSerivce[id],
