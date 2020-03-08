@@ -180,20 +180,20 @@ self.__precacheManifest = [
     "url": "/static/media/Rajdhani-SemiBold.1bd53389.woff"
   },
   {
-    "revision": "9ac4f0416cd76e3e3a5c7db8aa04f438",
-    "url": "/static/media/AktivGrotesk-Hairline.9ac4f041.eot"
-  },
-  {
     "revision": "fc89f1ff19080a4067de502227d1c881",
     "url": "/static/media/AktivGrotesk-Hairline.fc89f1ff.ttf"
   },
   {
-    "revision": "7a81cb2f8662f73557a32b5f115287d9",
-    "url": "/static/media/AktivGrotesk-HairlineItalic.7a81cb2f.ttf"
+    "revision": "9ac4f0416cd76e3e3a5c7db8aa04f438",
+    "url": "/static/media/AktivGrotesk-Hairline.9ac4f041.eot"
   },
   {
     "revision": "60cfc5fb06c441069e60c73aae7694e3",
     "url": "/static/media/AktivGrotesk-HairlineItalic.60cfc5fb.eot"
+  },
+  {
+    "revision": "7a81cb2f8662f73557a32b5f115287d9",
+    "url": "/static/media/AktivGrotesk-HairlineItalic.7a81cb2f.ttf"
   },
   {
     "revision": "d00b039cef84520c8e450f0f18fa9006",
@@ -204,20 +204,20 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-XBold.6315b88e.ttf"
   },
   {
-    "revision": "544b20135d7aa27a290b31d224dbebaf",
-    "url": "/static/media/AktivGrotesk-XBoldItalic.544b2013.eot"
-  },
-  {
     "revision": "cc9101bd6f05111250ad27c0b9ea49b1",
     "url": "/static/media/AktivGrotesk-XBoldItalic.cc9101bd.ttf"
+  },
+  {
+    "revision": "3af18e065f0022f6732314228e096f76",
+    "url": "/static/media/AktivGrotesk-ThinItalic.3af18e06.eot"
   },
   {
     "revision": "9fd506de4f9e6f7a45ff",
     "url": "/static/js/main.9fd506de.chunk.js"
   },
   {
-    "revision": "3af18e065f0022f6732314228e096f76",
-    "url": "/static/media/AktivGrotesk-ThinItalic.3af18e06.eot"
+    "revision": "544b20135d7aa27a290b31d224dbebaf",
+    "url": "/static/media/AktivGrotesk-XBoldItalic.544b2013.eot"
   },
   {
     "revision": "1b62dcef389ee82f0950869c050d82bd",
@@ -292,12 +292,12 @@ self.__precacheManifest = [
     "url": "/static/media/AktivGrotesk-Regular.b44bcadd.ttf"
   },
   {
-    "revision": "f4aa488011c7a26f2054ead19151343e",
-    "url": "/static/media/AktivGrotesk-LightItalic.f4aa4880.eot"
-  },
-  {
     "revision": "11f45dcae4c900a798989cf0d848deb9",
     "url": "/static/media/AktivGrotesk-LightItalic.11f45dca.ttf"
+  },
+  {
+    "revision": "f4aa488011c7a26f2054ead19151343e",
+    "url": "/static/media/AktivGrotesk-LightItalic.f4aa4880.eot"
   },
   {
     "revision": "237266a15fd03299873d6cbaf99325b2",
