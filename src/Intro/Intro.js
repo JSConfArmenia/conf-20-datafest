@@ -6,8 +6,9 @@ const Intro = () => (
   <section id="intro" className="Intro">
     <div className="IntroContainer">
       <div className="Info">
-        <p>
-DataFest is postponed due to the situation with
+        <p style={{ textAlign: 'center' }}>
+                  DataFest is postponed due to the situation with
+          {' '}
           <span style={{
             paddingLeft: 3,
             fontSize: 30,
@@ -15,10 +16,11 @@ DataFest is postponed due to the situation with
             whiteSpace: 'nowrap',
           }}
           >
-Corona virus
+                  Corona virus
           </span>
-.
+            .
         </p>
+
         <p> Exact dates will be posted later.</p>
         {/* <p>American University of Armenia</p> */}
         {/* <p>April 9-11, 2020</p> */}
